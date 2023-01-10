@@ -1,5 +1,7 @@
 import './style.css'
 
+import './tasks/07-tarea'
+
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
